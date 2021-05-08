@@ -40,3 +40,9 @@ fields:
   default: []
   label: Tags
   description: Tags for your blog post
+- name: images
+  type: file
+  config:
+    maxSize: 16
+  label: Images
+  description: Images used for your blog post
