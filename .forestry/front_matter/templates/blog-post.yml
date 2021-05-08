@@ -1,4 +1,42 @@
 ---
 label: Blog post
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: The title for your post
+- name: date
+  type: datetime
+  label: Date
+  description: The date of the post
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: lastmod
+  type: datetime
+  label: Last Modified Date
+  description: The last modified date of the post
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+  hidden: true
+- name: summary
+  type: text
+  config:
+    required: false
+  label: Summary
+  description: Short summary of your blog post
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Tags for your blog post
