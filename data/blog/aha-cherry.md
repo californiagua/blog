@@ -13,4 +13,4 @@ images: ''
 
 It's yummy!
 
-![](/public/static/images/science.png)
+![](/public/static/images/science.png)![](/public/twitter-card.png)
