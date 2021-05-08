@@ -60,5 +60,3 @@ fields:
     max: 10
     step: 0.5
     required: false
-pages:
-- data/blog/aha-cherry.md
