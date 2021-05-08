@@ -15,6 +15,4 @@ It's yummy!
 
 ![](/static/images/science.png)
 
-[photo-1620421680010-0766ff230392?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80](https://images.unsplash.com/photo-1620421680010-0766ff230392?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80 "photo-1620421680010-0766ff230392?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80")
-
-\[Image\]([https://unsplash.com/photos/5IgRF_zG1ZA](https://unsplash.com/photos/5IgRF_zG1ZA "https://unsplash.com/photos/5IgRF_zG1ZA"))
+!\[\]([https://unsplash.com/photos/5IgRF_zG1ZA](https://unsplash.com/photos/5IgRF_zG1ZA "https://unsplash.com/photos/5IgRF_zG1ZA"))
