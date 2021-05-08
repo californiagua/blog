@@ -9,7 +9,9 @@ sections:
   label: Posts
   create: documents
   match: "**/*.{md,mdx}"
-  new_doc_ext: mdx
+  new_doc_ext: md
+  templates:
+  - blog-post
 upload_dir: public/static/images
 public_path: "/uploads"
 front_matter_path: ''
