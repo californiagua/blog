@@ -6,11 +6,11 @@ tags:
 rating: 5
 title: AHA Cherry
 summary: I love it so much
-images: "/uploads/science.png"
+images: ''
 
 ---
 # AHA CHERRY
 
 It's yummy!
 
-![](/uploads/science.png)
+![](/public/static/images/science.png)
