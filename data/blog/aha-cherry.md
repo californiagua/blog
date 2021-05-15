@@ -1,6 +1,6 @@
 ---
-date: 2021-05-08
-lastmod: 2021-05-08T06:00:09Z
+date: '2021-05-08'
+lastmod: '2021-05-08'
 tags:
 - aha
 rating: 5
