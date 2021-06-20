@@ -8,7 +8,7 @@ exports.modules = {
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('{"TN":"Californiagua Blog","v":"The Water Doctor","r9":"Californiagua","WL":"Reviewing all the sparkling water I can find","dK":"en-us","or":"https://californiagua.com","Vm":"https://github.com/californiagua/blog","BH":"/static/images/avatar.jpg","Ao":"/static/images/twitter-card.png","Do":"californiagua@gmail.com","km":"https://twitter.com/Twitter","SP":"en-US"}');
+module.exports = JSON.parse('{"TN":"Californiagua Blog","v":"The Water Doctor","r9":"Californiagua","WL":"Reviewing all the sparkling water I can find","dK":"en-us","or":"https://californiagua.com","Vm":"https://github.com/californiagua/blog","BH":"/static/images/avatar.jpg","Ao":"/static/images/twitter-card.png","Do":"californiagua@gmail.com","km":"https://twitter.com/californiagua","SP":"en-US"}');
 
 /***/ }),
 
