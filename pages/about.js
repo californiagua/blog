@@ -34,15 +34,14 @@ export default function About() {
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>Welcome,</p>
             <p>
-              My name is Dr. Rajnish Patel. I'm a medical doctor living the Northern California
-              area. This is my blog about all things sparkling water. From foreign imports to exotic
+              This is my blog about all things sparkling water. From foreign imports to exotic
               tropical flavors, I cover it all.
             </p>
             <p>
               Follow along to learn about the latest and greatest brands, flavors and beverages in
               the world of water.
             </p>
-            <p>Raj</p>
+            <p>The Water Doctor</p>
           </div>
         </div>
       </div>
