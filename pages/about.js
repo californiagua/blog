@@ -22,7 +22,9 @@ export default function About() {
             <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight">
               {siteMetadata.author}
             </h3>
-            <div className="text-gray-500 dark:text-gray-400">Physician and Avid Water Enthusiast</div>
+            <div className="text-gray-500 dark:text-gray-400">
+              Physician and Avid Water Enthusiast
+            </div>
             <div className="text-gray-500 dark:text-gray-400">Northern California</div>
             <div className="flex pt-6 space-x-3">
               <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} />
@@ -30,19 +32,17 @@ export default function About() {
             </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
+            <p>Welcome,</p>
             <p>
-              I'm the doctor, baby. 
+              My name is Dr. Rajnish Patel. I'm a medical doctor living the Northern California
+              area. This is my blog about all things sparkling water. From foreign imports to exotic
+              tropical flavors, I cover it all.
             </p>
             <p>
-              He leads the clean energy group which develops 3D air pollution-climate models, writes
-              differential equation solvers, and manufactures titanium plated air ballons. In his
-              free time he bakes raspberry pi.
+              Follow along to learn about the latest and greatest brands, flavors and beverages in
+              the world of water.
             </p>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique
-              placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem
-              nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-            </p>
+            <p>Raj</p>
           </div>
         </div>
       </div>
