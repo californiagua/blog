@@ -23,7 +23,7 @@ export default function About() {
               {siteMetadata.author}
             </h3>
             <div className="text-gray-500 dark:text-gray-400">
-              Physician and Avid Water Enthusiast
+              Doctor and Avid Water Enthusiast
             </div>
             <div className="text-gray-500 dark:text-gray-400">Northern California</div>
             <div className="flex pt-6 space-x-3">
